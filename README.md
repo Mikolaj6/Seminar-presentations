@@ -1,4 +1,4 @@
-# Seminar presentations
+# Seminar projects
 This repo contains code and other materials for my seminar - "Practical Prediction Systems".
 More datiled info about each subproject can be found in their repective README.md
 
